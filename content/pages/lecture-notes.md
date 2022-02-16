@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9ee0a0fa-aa32-fe22-cbd2-2a82a88647a6
 ---
