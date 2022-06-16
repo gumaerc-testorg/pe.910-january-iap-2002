@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the topics covered, investigations,
+  and activities for each session of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

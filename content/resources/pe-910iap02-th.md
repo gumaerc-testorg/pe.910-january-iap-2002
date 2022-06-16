@@ -3,7 +3,7 @@ content_type: resource
 description: Walking, which represents an extraordinarily complex coordination of
   actions, is one of the topics explored in the course. (Image courtesy of Flickr.com.
   Photo by Juliebee.)
-file: /media/courses/pe-910-physical-intelligence-january-iap-2002/8081968207c20a1b91b486f699b479f6_pe-910iap02-th.jpg
+file: /courses/pe-910-physical-intelligence-january-iap-2002/8081968207c20a1b91b486f699b479f6_pe-910iap02-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Walking, which represents an extraordinarily complex coordination of actions,
@@ -17,3 +17,5 @@ resourcetype: Image
 title: Walking in Snow (thumbnail)
 uid: 80819682-07c2-0a1b-91b4-86f699b479f6
 ---
+Walking, which represents an extraordinarily complex coordination of actions, is one of the topics explored in the course. (Image courtesy of Flickr.com. Photo by Juliebee.)
+
