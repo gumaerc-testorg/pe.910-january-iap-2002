@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: People walking through snow-covered woods.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Walking in Snow (thumbnail)
 uid: 80819682-07c2-0a1b-91b4-86f699b479f6
 ---
 Walking, which represents an extraordinarily complex coordination of actions, is one of the topics explored in the course. (Image courtesy of Flickr.com. Photo by Juliebee.)
-
