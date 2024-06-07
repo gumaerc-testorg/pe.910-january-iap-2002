@@ -7,11 +7,11 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
-- identifier: 9ee0a0fa-aa32-fe22-cbd2-2a82a88647a6
-  name: Lecture Notes
-  pageRef: /pages/lecture-notes
-  weight: 30
 - identifier: 28fe48a6-97c1-be58-74ad-19825d29d1c9
   name: Assignments
   pageRef: /pages/assignments
+  weight: 30
+- identifier: 5473162e-8273-4b1a-b86c-17b0a67f3a25
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
   weight: 40
