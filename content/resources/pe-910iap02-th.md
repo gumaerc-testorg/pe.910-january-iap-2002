@@ -3,7 +3,7 @@ content_type: resource
 description: Walking, which represents an extraordinarily complex coordination of
   actions, is one of the topics explored in the course. (Image courtesy of Flickr.com.
   Photo by Juliebee.)
-file: /courses/pe-910-physical-intelligence-january-iap-2002/8081968207c20a1b91b486f699b479f6_pe-910iap02-th.jpg
+file: /ol-ocw-studio-app/courses/pe-910-physical-intelligence-january-iap-2002/8081968207c20a1b91b486f699b479f6_pe-910iap02-th.jpg
 file_size: 12944
 file_type: image/jpeg
 image_metadata:
